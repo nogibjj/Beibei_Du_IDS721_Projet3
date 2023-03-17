@@ -8,3 +8,7 @@ I am trying to see if I can replicate the work similar to this: https://huggingf
 
 
 > I found out this is not too feasible and decide to preprocess dataset using Rust Language. Instead, I decide to do food image classification. Here is the reference of data: https://www.kaggle.com/datasets/dansbecker/food-101
+
+
+## Reference
+[1]. https://www.kaggle.com/code/odednir/multiclass-food-classification-using-tensorflow
