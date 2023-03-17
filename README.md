@@ -10,3 +10,5 @@ I am trying to see if I can replicate the work similar to this: https://huggingf
 
 ## Reference
 [1]. https://www.kaggle.com/code/odednir/multiclass-food-classification-using-tensorflow
+
+[2]. https://github.com/nogibjj/rust-mlops-template/blob/main/pytorch-rust-example/src/main.rs
