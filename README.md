@@ -19,7 +19,7 @@ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
 source "$HOME/.cargo/env"
 cargo new ids721-project3-0322
 ```
-##
+## Process
 #### 1. Getting data from Kaggle:
 - Mavigate to the dataset on Kaggle
 - Download the data in a format that can be easily read by SageMaker in a CSV format
@@ -31,6 +31,13 @@ cargo new ids721-project3-0322
 - Train a machine learning model using SageMaker's built-in algorithms or by bringing your own algorithm.
 - Evaluate the model's performance and adjust as necessary.
 #### 3. Presenting your work on GitHub using LaTeX:
+
+## Modeling Results
+1. Scatterplot
+<img width="567" alt="Screen Shot 2023-04-09 at 3 47 53 AM" src="https://user-images.githubusercontent.com/60382493/230760799-a78ff960-2d4c-4971-8183-f843ab59373c.png">
+
+2. Residual Plot
+<img width="603" alt="Screen Shot 2023-04-09 at 3 48 03 AM" src="https://user-images.githubusercontent.com/60382493/230760809-e54040c8-fa7d-456d-8771-362263b85459.png">
 
 
 ## Reference
