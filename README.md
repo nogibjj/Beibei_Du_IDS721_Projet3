@@ -45,6 +45,8 @@ Under "IAM role", choose "Create a new
 - Explore and preprocess the data as necessary.
 - Train a machine learning model using SageMaker's built-in algorithms or by bringing your own algorithm.
 - Evaluate the model's performance and adjust as necessary.
+<img width="1392" alt="Screen Shot 2023-04-09 at 3 49 48 PM" src="https://user-images.githubusercontent.com/60382493/230793622-5d439d1c-91c0-4909-9a0f-3bf1b4278232.png">
+
 #### 3. Presenting your work on GitHub using LaTeX:
 
 ## Modeling Results
