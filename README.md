@@ -9,6 +9,10 @@ I am trying to see if I can replicate the work similar to this: https://huggingf
 
 > I found another dataset about the college enrollment and decided to do analysis on this: https://www.kaggle.com/datasets/michaelbryantds/university-enrollments-dataset
 
+## Flowchart of this project
+<img width="407" alt="Screen Shot 2023-04-09 at 3 20 15 AM" src="https://user-images.githubusercontent.com/60382493/230759856-d6be282f-675a-494a-bea4-a845e14c8a24.png">
+
+
 ## Rust Setup
 ```
 curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
