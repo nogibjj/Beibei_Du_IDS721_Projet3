@@ -19,6 +19,21 @@ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
 source "$HOME/.cargo/env"
 cargo new ids721-project3-0322
 ```
+## AWS SageMaker Setup
+1. Sign in to AWS account.
+
+2. Open the AWS Management Console and navigate to the SageMaker service.
+
+
+3. Choose a name for your notebook instance and select an instance type.
+
+4. Under "IAM role", choose "Create a new role" and select "SageMaker" as the service that will use this role.
+
+5. Choose the policies that provide the necessary permissions for your use case.
+
+6. Click on the "Create role" button to create the new IAM role.
+
+Under "IAM role", choose "Create a new
 ## Process
 #### 1. Getting data from Kaggle:
 - Mavigate to the dataset on Kaggle
