@@ -9,6 +9,12 @@ I am trying to see if I can replicate the work similar to this: https://huggingf
 
 > I found another dataset about the college enrollment and decided to do analysis on this: https://www.kaggle.com/datasets/michaelbryantds/university-enrollments-dataset
 
+## Rust Setup
+```
+curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
+source "$HOME/.cargo/env"
+cargo new ids721-project3-0322
+```
 
 ## Reference
 [1]. https://www.kaggle.com/code/odednir/multiclass-food-classification-using-tensorflow
